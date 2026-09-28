@@ -169,6 +169,23 @@ Modern website and booking system for a massage studio.
 
 <sub>The activity card is generated inside this repository with GitHub Actions instead of depending on a public stats endpoint.</sub>
 
+<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/morg1z/morg1z/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/morg1z/morg1z/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/morg1z/morg1z/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ---
 
 <details>
