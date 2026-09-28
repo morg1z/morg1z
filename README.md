@@ -164,7 +164,7 @@ Modern website and booking system for a massage studio.
 ## GitHub activity
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" width="520">
+  <img src="./profile/stats.svg" alt="GitHub stats" width="800">
 </p>
 
 <sub>The activity card is generated inside this repository with GitHub Actions instead of depending on a public stats endpoint.</sub>
