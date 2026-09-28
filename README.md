@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/banner.webp" alt="Lo-fi pixel campfire banner" width="100%">
+<img src="./profile/banner-v2.webp" alt="Lo-fi pixel campfire banner" width="100%">
 
 # Radim Ilek
 
