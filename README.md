@@ -29,9 +29,9 @@
 
 ## About me
 
+- 🔭 Currently building **Jiyu**, **WiAn** and **The Writing Mage**
+- 🌱 Exploring **Kotlin Multiplatform**, networking and backend architecture
 - Building products across **mobile**, **web**, **networks** and **game development**
-- Currently focused on **Jiyu**, **WiAn** and **The Writing Mage**
-- Main stack: **Kotlin**, **JavaScript / TypeScript**, **PostgreSQL**, **Supabase**
 
 ---
 
