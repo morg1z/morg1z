@@ -80,7 +80,7 @@
 ### Android / Application
 
 <p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=111111" alt="Android">
+  <img src="https://img.shields.io/badge/Android-1F8B4C?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-5B5BD6?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform">
   <img src="https://img.shields.io/badge/XML-555555?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
   <img src="https://img.shields.io/badge/AGSL-24292F?style=for-the-badge&logo=android&logoColor=3DDC84" alt="AGSL">
@@ -90,7 +90,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111111" alt="Supabase">
+  <img src="https://img.shields.io/badge/Supabase-277A5A?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/JSON%20%2F%20JSONC-292929?style=for-the-badge&logo=json&logoColor=white" alt="JSON JSONC">
 </p>
 
@@ -118,8 +118,8 @@
 Android manga, manhwa & light novel reader with AI-powered translation and a unified reading experience.
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=111111" alt="Android">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111111" alt="Supabase">
+<img src="https://img.shields.io/badge/Android-1F8B4C?style=flat-square&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/Supabase-277A5A?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
 
 </td>
 <td width="50%" valign="top">
@@ -129,7 +129,7 @@ Android manga, manhwa & light novel reader with AI-powered translation and a uni
 Wi-Fi, LAN & CPE diagnostics focused on real measurements, evidence and troubleshooting.
 
 <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-5B5BD6?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=111111" alt="Android">
+<img src="https://img.shields.io/badge/Android-1F8B4C?style=flat-square&logo=android&logoColor=white" alt="Android">
 
 </td>
 </tr>
