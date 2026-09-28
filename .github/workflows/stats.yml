@@ -14,6 +14,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-stats-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   stats:
     runs-on: ubuntu-latest
@@ -21,10 +25,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.x"
 
@@ -35,7 +41,10 @@ jobs:
         run: python profile/generate_stats.py
 
       - name: Commit updated stats
+        shell: bash
         run: |
+          set -euo pipefail
+
           if git diff --quiet -- profile/stats.svg; then
             echo "Stats are already up to date."
             exit 0
@@ -43,6 +52,23 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/stats.svg
           git commit -m "Update profile stats"
-          git push
+
+          for attempt in 1 2 3; do
+            echo "Push attempt $attempt/3"
+
+            git fetch origin main
+            git rebase origin/main
+
+            if git push origin HEAD:main; then
+              echo "Stats pushed successfully."
+              exit 0
+            fi
+
+            sleep $((attempt * 2))
+          done
+
+          echo "Failed to push stats after 3 attempts."
+          exit 1
