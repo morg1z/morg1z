@@ -64,6 +64,7 @@
 <p>
   <img src="https://img.shields.io/badge/Android-1F8B4C?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-5B5BD6?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
   <img src="https://img.shields.io/badge/XML-555555?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
   <img src="https://img.shields.io/badge/AGSL-24292F?style=for-the-badge&logo=android&logoColor=3DDC84" alt="AGSL">
 </p>
@@ -80,6 +81,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -110,8 +112,10 @@ Android manga, manhwa & light novel reader with AI-powered translation and a uni
 
 Wi-Fi, LAN & CPE diagnostics focused on real measurements, evidence and troubleshooting.
 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
 <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-5B5BD6?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform">
 <img src="https://img.shields.io/badge/Android-1F8B4C?style=flat-square&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
 
 </td>
 </tr>
@@ -122,7 +126,10 @@ Wi-Fi, LAN & CPE diagnostics focused on real measurements, evidence and troubles
 
 Fantasy typing RPG built around spell-casting, progression and original pixel-art combat.
 
-<img src="https://img.shields.io/badge/Game%20Systems-30363D?style=flat-square" alt="Game Systems">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
+<img src="https://img.shields.io/badge/Phaser-20232A?style=flat-square" alt="Phaser">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Supabase-277A5A?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
 <img src="https://img.shields.io/badge/Pixel%20Art-30363D?style=flat-square" alt="Pixel Art">
 
 </td>
@@ -133,8 +140,10 @@ Fantasy typing RPG built around spell-casting, progression and original pixel-ar
 Modern website and booking system for a massage studio.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Supabase-277A5A?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
 
 </td>
