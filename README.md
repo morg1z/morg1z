@@ -29,10 +29,9 @@
 
 ## About me
 
-- 🔭 Currently building **Jiyu**, **WiAn** and **The Writing Mage**
-- 🌱 Exploring **Kotlin Multiplatform**, networking and backend architecture
-- 💬 Ask me about **Android, Kotlin, TypeScript, PostgreSQL or Supabase**
-- ⚡ Most of my projects start with *“this should be pretty simple”*
+- Building products across **mobile**, **web**, **networks** and **game development**
+- Currently focused on **Jiyu**, **WiAn** and **The Writing Mage**
+- Main stack: **Kotlin**, **JavaScript / TypeScript**, **PostgreSQL**, **Supabase**
 
 ---
 
