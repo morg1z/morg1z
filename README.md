@@ -29,7 +29,7 @@
 
 ## About me
 
-- Currently building **Jiyu**, **WiAn** and **The Writing Mage**
+- Currently building **Jiyu** and **WiAn**
 - Exploring **Kotlin Multiplatform**, networking and backend architecture
 - Building products across **mobile**, **web**, **networks** and **game development**
 
@@ -118,35 +118,7 @@ Wi-Fi, LAN & CPE diagnostics focused on real measurements, evidence and troubles
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-### The Writing Mage
-
-Fantasy typing RPG built around spell-casting, progression and original pixel-art combat.
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
-<img src="https://img.shields.io/badge/Phaser-20232A?style=flat-square" alt="Phaser">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Supabase-277A5A?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-<img src="https://img.shields.io/badge/Pixel%20Art-30363D?style=flat-square" alt="Pixel Art">
-
-</td>
-<td width="50%" valign="top">
-
-### Alpeja
-
-Modern website and booking system for a massage studio.
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Supabase-277A5A?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-
-</td>
-</tr>
 </table>
 
 ---
@@ -170,9 +142,8 @@ morg1z@now:~$ status
 
 01  refining Jiyu and its translation workflow
 02  building WiAn around useful network diagnostics
-03  developing The Writing Mage and its combat systems
-04  building practical web projects
-05  learning by shipping
+03  building practical web projects
+04  learning by shipping
 ```
 
 </details>
